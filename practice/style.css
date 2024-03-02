@@ -1,0 +1,35 @@
+/* .box{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+/* .para{
+    color: aquamarine;
+}
+
+.altPara{
+    background-color: black;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+#mssg{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    color: rgb(241, 94, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 25px;
+}
